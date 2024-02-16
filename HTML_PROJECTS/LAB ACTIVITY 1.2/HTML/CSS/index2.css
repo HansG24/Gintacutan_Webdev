@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette:400');
+
+body{
+    background: #ebebbb;
+    background: linear-gradient(to right, #74a9dac2, #ecea86ec);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.header h1{
+    text-align: center;
+    font-size: 150px;
+    color: rgb(4, 92, 107);
+    font-family: 'Courgette', sans-serif;
+    letter-spacing: 3px;
+}
+
+.link a { 
+    font-size: 50px;
+}
